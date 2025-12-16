@@ -1,15 +1,15 @@
-#Language Taxonomy 
+# Language Taxonomy 
 
 ## Requirements 
 
-pip install spacy PyPDF2
-python -m spacy download en_core_web_sm
+- pip install spacy PyPDF2
+- python -m spacy download en_core_web_sm
 
 
 ## Verb Exctraction
 
-Use the verb.py file to extract verbs associated with keywords. 
-Change the keywords as required. 
+- Use the verb.py file to extract verbs associated with keywords. 
+- Change the keywords as required. 
 
 
 ## TODO: 
