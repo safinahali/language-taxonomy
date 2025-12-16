@@ -9,7 +9,10 @@ TARGET_NOUNS = {
     "artificial intelligence",
     "machine",
     "agent",
-    "robot"
+    "robot",
+    "robots",
+    "tutor",
+    "AI"
 }
 
 PDF_PATH = "input.pdf"
