@@ -16,4 +16,5 @@
 
 - Multiple articles
 - Dynamic keyword (e.g. it knows to use a different keyword based on what the article is referring, e.g. tutor)
+- Output to file, along with time of publication [noun, verb, month, year]
 
